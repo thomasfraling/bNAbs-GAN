@@ -1,6 +1,6 @@
 # bnAbs-GAN
 
-Repository for the bachelor thesis entitled *Identification of broadly neutralizing antibodies with a semi-supervised GAN* conducted in the sommer term of 2021 at the ETH Zurich under supervision of Dr. Thomas Lemmin.
+Repository for the bachelor thesis entitled *Identification of broadly neutralizing antibodies with a semi-supervised GAN* conducted by Thomas Fraling in the sommer term of 2021 at the ETH Zurich under supervision of Dr. Thomas Lemmin.
 
 In order to run this project the following steps have to be performed:
 1. Clone the repository.
